@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#navigation{
+    position: relative;
+    height: 150px;
+    width: 100%;
+    background-color: white;
+    border: 1px solid black;
+}
+#navigation p{
+    display: inline-block;
+    font-size: 50px;
+}
+#navigation ul li{
+    display: inline-block;
+}
+#navigation img{
+    height: 100px;
+    width: 100px;
+}
+#Home{
+    margin: 2px;
+    padding: 10px;
+    height: 500px;
+    width: 99%;
+}
+.img{
+    position: relative;
+    left: 100px;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 10px;
+    height: 350px;
+    width: 350px;
+}
+.img img{
+    position: relative;
+    left: 50px;
+    height: 250px;
+    width: 250px;
+}
+.img h4{
+    font-size: 34px;
+}
+.img h6{
+    font-size: 26px;
+}
